@@ -7,3 +7,5 @@ first commit after this.
 
 new commit for feature 2
 >>>>>>> feature/feature_2
+
+latest update final for release
