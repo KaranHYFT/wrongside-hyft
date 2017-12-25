@@ -9,3 +9,5 @@ new commit for feature 2
 >>>>>>> feature/feature_2
 
 latest update final for release
+
+update copy hotfix
